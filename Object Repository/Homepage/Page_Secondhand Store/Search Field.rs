@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Search Field</name>
+   <tag></tag>
+   <elementGuidId>8e025e2f-3a32-4307-816e-7ad42f6ef263</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>form.search-bar</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/nav/div/form</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>form</value>
+      <webElementGuid>ee757faa-8f69-400c-85a9-2d08a76a15b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>search-bar</value>
+      <webElementGuid>d377b684-0a0c-4af1-bb5b-030e9ce32ca3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/nav[@class=&quot;navbar navbar-expand-lg sticky-top&quot;]/div[@class=&quot;container&quot;]/form[@class=&quot;search-bar&quot;]</value>
+      <webElementGuid>619dcf36-c615-4c1b-8420-662d24c38341</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/nav/div/form</value>
+      <webElementGuid>0fd226cd-25c9-46c0-99e8-a1d45204448d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/preceding::form[1]</value>
+      <webElementGuid>8cc29046-8ecf-4f98-a726-ff974c6dbceb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bulan Ramadan Banyak Diskon!'])[1]/preceding::form[1]</value>
+      <webElementGuid>aeeea45b-b49a-44f0-b52d-26b295b6375d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form</value>
+      <webElementGuid>2e1d60cc-a756-4b11-8a8c-8fad5397eeed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

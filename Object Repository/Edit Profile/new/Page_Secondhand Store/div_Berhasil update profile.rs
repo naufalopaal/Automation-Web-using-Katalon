@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Berhasil update profile</name>
+   <tag></tag>
+   <elementGuidId>89973f6d-fbe1-47f8-b655-e39035da5282</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.fade.position-absolute.top-0.start-50.translate-middle.alert.alert-success.show</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e5a5f043-f97b-46b6-9cee-bd51c55a417d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>aa95d7ff-f88c-4583-97d2-b96949623afe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fade position-absolute top-0 start-50 translate-middle alert alert-success show</value>
+      <webElementGuid>74a24f1b-f1fe-4c14-a911-c118e97c3f6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Berhasil update profile</value>
+      <webElementGuid>d524852d-1dce-40d5-8743-27cb0e5cf56a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;container mt-5&quot;]/div[@class=&quot;fade position-absolute top-0 start-50 translate-middle alert alert-success show&quot;]</value>
+      <webElementGuid>ae76c398-c81c-48bc-bec7-e14885d88051</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[3]</value>
+      <webElementGuid>08c0bece-c617-44ac-b0db-bbfb744a13c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='submit'])[1]/following::div[1]</value>
+      <webElementGuid>c2cef1cc-e72a-42fe-abdc-2b9982f25fd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No.Handphone*'])[1]/following::div[3]</value>
+      <webElementGuid>1fc26cbb-eaed-45ff-9af4-df5587266ac6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/div/div/div/div[3]</value>
+      <webElementGuid>aea02d9f-5e53-4557-9038-41b13eb754ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Berhasil update profile' or . = 'Berhasil update profile')]</value>
+      <webElementGuid>82c2e819-82e8-4562-b5b6-edfcd2f31096</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

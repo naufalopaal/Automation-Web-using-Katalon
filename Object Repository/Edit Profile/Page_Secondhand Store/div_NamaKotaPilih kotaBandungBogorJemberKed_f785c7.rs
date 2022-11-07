@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_NamaKotaPilih kotaBandungBogorJemberKed_f785c7</name>
+   <tag></tag>
+   <elementGuidId>1c546bc0-501b-4be1-ae53-379fdd9e9082</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.container.mt-5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0a2d18e4-5417-487f-bb8d-ef8547f809bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>container mt-5</value>
+      <webElementGuid>9efd8434-f61b-4187-b13f-ac0581d47c78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Nama*Kota*Pilih kotaBandungBogorJemberKediriLumajangMalangPasuruanProbolinggoYogyakartaAlamat*Bandung wetan No.Handphone* submit</value>
+      <webElementGuid>bdca744d-5e00-4648-90fb-880eb324a6e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;container mt-5&quot;]</value>
+      <webElementGuid>1e266453-4aad-4512-93eb-dfffcea81623</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div</value>
+      <webElementGuid>3e7f702c-ffe8-4696-bcc6-66e570159502</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[1]/following::div[1]</value>
+      <webElementGuid>2ec3c570-02ec-48e6-bd8c-7d0c321e925c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/following::div[2]</value>
+      <webElementGuid>ec92aeef-c933-416a-98c0-d0a68d519431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/div/div/div</value>
+      <webElementGuid>2b039993-7e2c-4e81-af93-322ec64bc64f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Nama*Kota*Pilih kotaBandungBogorJemberKediriLumajangMalangPasuruanProbolinggoYogyakartaAlamat*Bandung wetan No.Handphone* submit' or . = ' Nama*Kota*Pilih kotaBandungBogorJemberKediriLumajangMalangPasuruanProbolinggoYogyakartaAlamat*Bandung wetan No.Handphone* submit')]</value>
+      <webElementGuid>751c9c75-8b39-425b-be64-40860695524f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
